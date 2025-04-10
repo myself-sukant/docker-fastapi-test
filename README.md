@@ -55,7 +55,7 @@ docker-fastapi-userapi/
 
 ---
 
-## Example User Payload
+## User Payload
 
 ```json
 {
@@ -107,6 +107,8 @@ services:
       - ./app/data:/app/app/data
     restart: always
 ```
+
+---
 
 ## Author
 
