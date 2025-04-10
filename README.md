@@ -20,6 +20,8 @@
   </a>
 </div>
 
+---
+
 # FastAPI Docker User API
 
 This project is a simple FastAPI application that handles user data using a JSON file instead of a database. The entire application is containerized using Docker and can be run using Docker Compose.
@@ -34,6 +36,7 @@ This project is a simple FastAPI application that handles user data using a JSON
 - Easy to run with `docker-compose`
 - API documentation available at `/docs`
 
+---
 
 ## Project Structure
 
@@ -50,6 +53,7 @@ docker-fastapi-userapi/
 └── README.md              # Project documentation
 ```
 
+---
 
 ## Example User Payload
 
